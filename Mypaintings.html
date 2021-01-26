@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+{
+  box-sizing: border-box;
+}
+
+body {
+  background-color: beige;
+  padding: 20px;
+  font-family: courier;
+}
+
+.main {
+  max-width: 1000px;
+  margin: auto;
+}
+
+h1 {
+  font-size: 50px;
+  word-break: break-all;
+}
+
+.row {
+  margin: 8px -16px;
+}
+
+
+.row,
+.row > .column {
+  padding: 8px;
+}
+
+
+.column {
+  float: left;
+  width: 25%;
+}
+
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+.content {
+  background-color: white;
+  padding: 10px;
+}
+
+@media screen and (max-width: 900px) {
+  .column {
+    width: 50%;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}
+div.scrollmenu {
+  background-color: #333;
+  overflow: auto;
+  white-space: nowrap;
+}
+
+div.scrollmenu a {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+}
+
+div.scrollmenu a:hover {
+  background-color: #777;
+}
+</style>
+</head>
+<body>
+
+<div class="scrollmenu">
+  <a href="index.html">Homepage</a>
+  <a href="#Myartwork">My Artwork:</a>
+  <a href="Mypaintings.html">Paintings</a>
+  <a href="Myillustrations.html">Illustrations</a>
+  <a href="3DMODELS.html">3D computerised models</a>
+  <a href="Othersartwork.html">Other artists' artwork:</a>
+</div>
+</style>
+</head>
+<body>
+
+<div class="main">
+
+<h1>My Paintings</h1>
+
+
+<p>I have a great passion for painting.</p>
+<p> The idea of having some time to myself to relax and release any inner thoughts is very appealing.</p>
+
+
+<div class="content">
+  <img src="BIGBLUE.jpg" alt="blue"style="width:30%">
+  <img src="IMG-1934.JPG" alt="Giuseppe" style="width:30%">
+  <img src="IMG-1935.JPG" alt="Grey mountains" style="width:30%">
+  <img src="ORIGINALBLUE.JPEG" alt="blue" style="width:30%">
+  <img src="IMG-1936.JPG" alt="Detailed Mountains" style="width:30%">
+  <img src="ARIZONA (2).jpg" alt="Arizona" style="width:30%">
+  <img src="screaming.jpg" alt="pink" style="width:30%">
+  <img src="BIGPINK.jpg" alt="pink" style="width:30%">
+  <img src="LIGHTPINK.jpg" alt="pink" style="width:30%">
+  <img src="SMALLPINK.jpg" alt="pink" style="width:30%">
+  <img src="rainbow.jpg" alt="pink" style="width:30%">
+  <img src="beach.jpg" alt="beach" style="width:30%">
+  <p></p>
+</div>
+
+
+
+  
+
+</body>
+</html>

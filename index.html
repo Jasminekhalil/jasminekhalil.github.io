@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html>
+<body style="background-color:beige;border:10px solid black">
+<head>
+<body>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+div.scrollmenu {
+  background-color: #333;
+  overflow: auto;
+  white-space: nowrap;
+}
+
+div.scrollmenu a {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+  font-family: courier;
+}
+
+div.scrollmenu a:hover {
+  background-color: #777;
+}
+</style>
+</head>
+<body>
+
+<div class="scrollmenu">
+  <a href="#Myartwork">My Artwork:</a>
+  <a href="Mypaintings.html">Paintings</a>
+  <a href="Myillustrations.html">Illustrations</a>
+  <a href="3DMODELS.html">3D computerised models</a>
+  <a href="Othersartwork.html">Other artists' artwork:</a>
+</div>
+
+
+</body>
+<h1 style="font-family:courier;font-size:400%;text-align:center;color:steelblue;"><del><sub>some</sub></del> <em>ALL</em> <sup>art</sup> is <mark>art</mark></h1>
+<p style="font-family:courier;font:100%;text-align:center;color:steelblue;">Art is <sup>your</sup> free expression of <sup>your</sup> senses and feelings,</p>
+<p style="font-family:courier;font:100%;text-align:center;color:steelblue;">what I find inticing, you may not</p>
+<p style="font-family:courier;font:100%;text-align:center;color:steelblue;">But all art is art.</p>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.accordion {
+  background-color: white;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+  transition: 0.4s;
+}
+
+.active, .accordion:hover {
+  background-color: gray; 
+}
+
+.panel {
+  padding: 0 18px;
+  display: none;
+  background-color: white;
+  overflow: hidden;
+}
+</style>
+</head>
+<body>
+
+
+<button class="accordion">QUOTES</button>
+<div class="panel">
+  <img src="quote1.jpg" width="200" height="300">
+  <img src="art quote 2.jpg" width="600" height="300">
+  <img src="art quote 3 (1).jpg" width="400" height="300">
+</div>
+
+
+<script>
+var acc = document.getElementsByClassName("accordion");
+var i;
+
+for (i = 0; i < acc.length; i++) {
+  acc[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var panel = this.nextElementSibling;
+    if (panel.style.display === "block") {
+      panel.style.display = "none";
+    } else {
+      panel.style.display = "block";
+    }
+  });
+}
+</script>
+
+
+
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial;
+}
+
+.header {
+  text-align: center;
+  padding: 32px;
+}
+
+.row {
+  display: -ms-flexbox; /* IE10 */
+  display: flex;
+  -ms-flex-wrap: wrap; /* IE10 */
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+
+.column {
+  -ms-flex: 25%; /* IE10 */
+  flex: 25%;
+  max-width: 25%;
+  padding: 0 4px;
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+  width: 100%;
+}
+
+
+@media screen and (max-width: 800px) {
+  .column {
+    -ms-flex: 50%;
+    flex: 50%;
+    max-width: 50%;
+  }
+}
+
+
+@media screen and (max-width: 600px) {
+  .column {
+    -ms-flex: 100%;
+    flex: 100%;
+    max-width: 100%;
+  }
+}
+</style>
+<body>
+
+
+
+
+<div class="row"> 
+  <div class="column">
+    <img src="starrystarry.jpg" style="width:100%">
+    <img src="monalisa.jpg" style="width:100%">
+    <img src="greekstat.jpg" style="width:100%">
+    <img src="appleface.jpg" style="width:100%">
+    
+  </div>
+  <div class="column">
+    <img src="scream.jpg" style="width:100%">
+    <img src="fingers.jpg" style="width:100%">
+    <img src="vangogh.jpg" style="width:100%">
+    <img src="bansky.jpg" style="width:100%">
+    <img src="war.jpg" style="width:100%">
+    
+  </div>
+  <div class="column">
+    <img src="pop.jpg" style="width:100%">
+    <img src="salvador.jpg" style="width:100%">
+    <img src="child.jpg" style="width:100%">
+    <img src="ceramic.jpg" style="width:100%">
+ 
+  </div>
+  <div class="column">
+    <img src="headband.jpg" style="width:100%">
+    <img src="picasso.jpg" style="width:100%">
+    <img src="banana.jpg" style="width:100%">
+    <img src="henri matisse.jpg" style="width:100%">
+   
+  </div>
+</div>
+
+
+
+</body>
+</body>
+</html>

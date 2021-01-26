@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: Arial;
+  margin: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+img {
+  vertical-align: middle;
+}
+
+
+.container {
+  position: relative;
+}
+
+
+.mySlides {
+  display: none;
+}
+
+
+.cursor {
+  cursor: pointer;
+}
+
+.prev,
+.next {
+  cursor: pointer;
+  position: absolute;
+  top: 40%;
+  width: auto;
+  padding: 16px;
+  margin-top: -50px;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+
+.prev:hover,
+.next:hover {
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+
+.caption-container {
+  text-align: center;
+  background-color: #222;
+  padding: 2px 16px;
+  color: white;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+.column {
+  float: left;
+  width: 16.66%;
+}
+
+.demo {
+  opacity: 0.6;
+}
+
+.active,
+.demo:hover {
+  opacity: 1;
+}
+div.scrollmenu {
+  background-color: #333;
+  overflow: auto;
+  white-space: nowrap;
+}
+
+div.scrollmenu a {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+  font-family: courier;
+}
+
+div.scrollmenu a:hover {
+  background-color: #777;
+}
+</style>
+</head>
+<body>
+
+<div class="scrollmenu">
+  <a href="index.html">Homepage</a>
+  <a href="#Myartwork">My Artwork:</a>
+  <a href="Mypaintings.html">Paintings</a>
+  <a href="Myillustrations.html">Illustrations</a>
+  <a href="3DMODELS.html">3D computerised models</a>
+  <a href="Othersartwork.html">Other artists' artwork:</a>
+</div>
+</style>
+<body>
+
+<h2 style="text-align:center;font-family:courier">Others' Artwork</h2>
+<p style="text-align:center;font-family:courier"> Here is some art from other artists
+
+<div class="container">
+  <div class="mySlides">
+    <div class="numbertext">1 / 14</div>
+    <img src="PAINTINGOLD.jpg" style="width:100%;">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">2 / 14</div>
+    <img src="WATERCOLOUR.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">3 / 14</div>
+    <img src="SHAPESKETCHES.jpg" style="width:100%">
+  </div>
+    
+  <div class="mySlides">
+    <div class="numbertext">4 / 14</div>
+    <img src="PAINTINGORANGE.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">5 / 14</div>
+    <img src="OLDMAN.jpg" style="width:100%">
+  </div>
+    
+  <div class="mySlides">
+    <div class="numbertext">6 / 14</div>
+    <img src="JASSKETCH.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">7 / 14</div>
+    <img src="HALFFACE.JPG" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">8 / 14</div>
+    <img src="GRAPESKETCH.jpg" style="width:100%">
+  </div>
+  
+  <div class="mySlides">
+    <div class="numbertext">9 / 14</div>
+    <img src="EDITORIALDRAWING.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">10 / 14</div>
+    <img src="CRAYON.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">11 / 14</div>
+    <img src="CLAY.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">12 / 14</div>
+    <img src="ARABICAPPLE.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">13 / 14</div>
+    <img src="AHMEDSKETCH.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">14 / 14</div>
+    <img src="3DART.jpg" style="width:100%">
+  </div>
+
+  <a class="prev" onclick="plusSlides(-1)">❮</a>
+  <a class="next" onclick="plusSlides(1)">❯</a>
+
+  
+<script>
+var slideIndex = 1;
+showSlides(slideIndex);
+
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+
+function currentSlide(n) {
+  showSlides(slideIndex = n);
+}
+
+function showSlides(n) {
+  var i;
+  var slides = document.getElementsByClassName("mySlides");
+  var dots = document.getElementsByClassName("demo");
+  var captionText = document.getElementById("caption");
+  if (n > slides.length) {slideIndex = 1}
+  if (n < 1) {slideIndex = slides.length}
+  for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";
+  }
+  for (i = 0; i < dots.length; i++) {
+      dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";
+  dots[slideIndex-1].className += " active";
+  captionText.innerHTML = dots[slideIndex-1].alt;
+}
+</script>
+    
+</body>
+</html>

@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Car V1
-description: Car Version 1 
+title: Rasberry Pi 
+description: Raspberry Pi Project 
 img: assets/gif/carvideo.GIF
-redirect: https://github.com/Jasminekhalil/carv1
+redirect: 
 importance: 1
 category: project
 ---

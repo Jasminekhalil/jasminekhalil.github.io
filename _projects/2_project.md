@@ -35,7 +35,4 @@ category: fun
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/sunsetcloudspainting.JPG" title="Painting 4" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/seacloudspainting.JPG" title="Painting 8" class="img-fluid rounded z-depth-1" %}
-    </div>
 </div>

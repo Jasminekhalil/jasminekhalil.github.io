@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Quadrature Using Julia 
+title: Quadrature in Julia 
 description: Project in Julia for the quadrature of certain functions with specific limits using the midpoint rule. 
 img: assets/img/quadrature_overview.png
 redirect: 

@@ -14,6 +14,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I'm an Electrical Engineering student at [Penn State](https://www.eecs.psu.edu/). 
+Hi! I'm a freshman at [PSU](https://www.eecs.psu.edu/) with an intended major in Electrical Engineering and Mathematics. My research interests are in GNNs, collaborative machine learning and optimization, as well as sustainable power and energy harvesting.
 
 A copy of my CV can be found [here]().

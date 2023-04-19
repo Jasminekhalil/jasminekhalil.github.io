@@ -1,18 +1,9 @@
 ---
 layout: page
-title: 4
+title: Car V2.0
 description: 
-img: 
-importance: 4
-category: research
+img: assets/img/carv22.jpg
+redirect: https://github.com/Jasminekhalil/carv2
+importance: 6
+category: project
 ---
-
-Notes
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="" title="Gazebo Mobile Robot" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-
-

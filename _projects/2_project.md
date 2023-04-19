@@ -1,38 +1,10 @@
 ---
 layout: page
-title: Paintings
-description: A collection of my selected paintings
-img: assets/img/verdipainting.jpg
-importance: 2
-category: fun
+title: Car V1.0
+description: 
+img: assets/gif/carvideo.GIF
+redirect: https://github.com/Jasminekhalil/carv1
+importance: 7
+category: project
 ---
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/classicpainting2.JPG" title="Painting 1" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/verdipainting.jpg" title="Painting 2" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/originalpainting.JPG" title="Painting 3" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/waterfallpainting2.JPG" title="Painting 5" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/waterfallpainting.jpg" title="Painting 6" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/classicpainting1.JPG" title="Painting 7" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/sunsetcloudspainting.JPG" title="Painting 4" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>

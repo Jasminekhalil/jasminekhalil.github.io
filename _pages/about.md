@@ -14,14 +14,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I'm a sophomore at [Penn State University](https://www.eecs.psu.edu/) with an intended major in Electrical Engineering and minor in Mathematics. My research and project interests are related to deep learning integrated with the medical field.
+Hi! I'm a sophomore at [Penn State University](https://www.eecs.psu.edu/) majoring in Electrical Engineering with a minor in Mathematics. My research and project interests are related to deep learning integrated with the medical field.
 
-I currently work as part of the Women in Engineering Program as a facilitator and mentor for freshmans and sophomores, and I am a member of the IEEE student chapter at Penn State. I also run an instagram page, @projectportfolio_, where I present the development and iterative process for my current and pervious projects, while motivating and collaborating with others in the process.
+I currently work as part of the Women in Engineering Program as a facilitator and mentor for freshmans and sophomores, and I am a member of the IEEE student chapter at Penn State. I also run an instagram page, [@projectportfolio_](https://www.instagram.com/projectportfolio_/), where I present the development and iterative process for my current and pervious projects, while motivating and collaborating with others in the process.
 
 Below is a collection of my selected paintings. 
-
-
-
 
 
 <div class="row">

@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Using Convolutional Neural Networks to Detect Ulna and Radius Fractures
-description: Current Project Related to My Reserach Interests In Deep Learning and Computer Vision 
-img: assets/img/activeproject.png
-redirect: 
+title: Neural Network Binary Classification Using Gradient
+Descent
+description: A breakdown of the mathematics for building a neural network for binary classification.  
+img: assets/img/neuralnet.png
+redirect: assets/pdf/Neural_Network_Binary_Classification_Using_Gradient_Descent.pdf
 importance: 1
 category: project
 ---

@@ -18,7 +18,7 @@ Hi! I'm a junior and Schreyer Honors Scholar at [Penn State University](https://
 
 Some recent professional experiences I have been involved in include conducting research as part of the [2024 DIMACS REU at Rutgers University](https://reu.dimacs.rutgers.edu/~jk2264/) under the mentorship of Dr. Pierre C. Bellec, being a Cornell/Break-Through Tech fellow, and working with applied AI/ML leads from J.P. Morgan Chase & Co. to build a model that predicts future price movements of stocks and other financial instruments during the last ten minutes of the Nasdaq exchange trading session.
 
-I am also the TA and coordinator for the Electrical Engineering first year seminar at Penn State, a memeber of the [Eta Kappa Nu (HKN) student chapter](https://sites.psu.edu/hkneecs/), and the IEEE student chapter at Penn State.
+I am also the TA and coordinator for the Electrical Engineering first year seminar at Penn State, a member of the [Eta Kappa Nu (HKN) student chapter](https://sites.psu.edu/hkneecs/), and the IEEE student chapter at Penn State.
 
 Below is a collection of my selected paintings. 
 

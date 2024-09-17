@@ -19,10 +19,10 @@ Hi! I'm a junior and Schreyer Honors Scholar at [Penn State University](https://
 Some recent professional experiences I have been involved in include:
 
  - Conducting research as part of the [2024 DIMACS REU at Rutgers University](https://reu.dimacs.rutgers.edu/~jk2264/) under the mentorship of Dr. Pierre C. Bellec.
- - Being a Cornell/Break-Through Tech fellow
+ - Being a [Cornell/Break-Through Tech fellow](https://tech.cornell.edu/impact/break-through-tech/)
  - Working with applied AI/ML leads from J.P. Morgan Chase & Co. to build a model that predicts future price movements of stocks and other financial instruments during the last ten minutes of the Nasdaq exchange trading session.
 
-I am also the TA and coordinator for the Electrical Engineering first year seminar at Penn State, a member of the [Eta Kappa Nu (HKN) student chapter](https://sites.psu.edu/hkneecs/), and the [IEEE student chapter](https://sites.psu.edu/psuieee/) at Penn State.
+I am also the TA and coordinator for the Electrical Engineering first year seminar at Penn State, a member of the [Eta Kappa Nu (HKN) student chapter](https://sites.psu.edu/hkneecs/), [Tau Beta Pi student chapter](https://sites.psu.edu/tbppab/) and the [IEEE student chapter](https://sites.psu.edu/psuieee/) at Penn State.
 
 [Here is a copy of my Resume](assets/pdf/Curriculum_Vitae_ML_Courses.pdf)
 

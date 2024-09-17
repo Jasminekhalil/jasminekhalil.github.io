@@ -1,9 +1,8 @@
-<!-- ---
+---
 layout: page
-title: Automatic Plant Watering System 
-description: Automatic Plant Watering System that checks the moisture level and pumps water accordingly, using an Arudino and Capacitive Moisture Sensor.
-img: assets/img/APWSimage.JPG
-redirect: https://github.com/Jasminekhalil/Automatic-Plant-Watering-System
-importance: 9
-category: project
---- -->
+title: JPMC Market Maven Project
+description: Building a model that predicts future price movements of stocks and other financial instruments during the last ten minutes of the Nasdaq exchange trading session
+img: assets/img/jpmclogo.png
+importance: 1
+category: fun
+---

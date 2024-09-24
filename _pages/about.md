@@ -24,7 +24,7 @@ Some recent professional experiences I have been involved in include:
 
 I am also the TA and coordinator for the Electrical Engineering first year seminar at Penn State, a member of the [Eta Kappa Nu (HKN) student chapter](https://sites.psu.edu/hkneecs/), [Tau Beta Pi student chapter](https://sites.psu.edu/tbppab/) and the [IEEE student chapter](https://sites.psu.edu/psuieee/) at Penn State.
 
-[Here is a copy of my Resume](assets/pdf/Curriculum_Vitae_ML_Courses.pdf)
+[Here is a copy of my Resume](assets/pdf/JKResumeUpdated.pdf)
 
 Below is a collection of my selected paintings. 
 

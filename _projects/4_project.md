@@ -1,9 +1,9 @@
-<!-- ---
+---
 layout: page
-title: Car V2.0
-description: 
-img: assets/img/carv22.jpg
-redirect: https://github.com/Jasminekhalil/carv2
-importance: 8
+title: Neural Network Binary Classification Using Gradient Descent
+description: A breakdown of the mathematics for building a neural network for binary classification.  
+img: assets/img/neuralnet.JPG
+redirect: ../assets/pdf/proj1.pdf
+importance: 5
 category: project
---- -->
+---

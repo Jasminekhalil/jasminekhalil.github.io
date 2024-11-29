@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Ball & Beam Game 
-description: Game where the aim is to balance the ball on the beam by adjusting the distance between your hand and the sensor.
-img: assets/img/ballandbeam.JPG
-redirect: https://github.com/Jasminekhalil/Ball-Beam
-importance: 7
+title: Karaoke and Tone Control PCB
+description: A karaoke tone contorl circuit I deisgned and built as part of my EE 210 final project.
+img: assets/img/karaoke.JPG
+redirect: https://www.instagram.com/p/C1OIjzktOLo/?igsh=cDF3NGl3YTdmenQy
+importance: 6
 category: project
 ---

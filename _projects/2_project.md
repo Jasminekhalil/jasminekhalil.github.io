@@ -1,10 +1,9 @@
-<!-- ---
+---
 layout: page
-title: Car V1.0
-description: 
-img: assets/gif/carvideo.GIF
-redirect: https://github.com/Jasminekhalil/carv1
-importance: 10
+title: DIMACS REU - Coupling from the Past for Statistical Mechanics Models
+description: A log of my research work, presentations, and final paper as part of the DIMACS REU at Rutgers University 
+img: assets/img/CFTP.png
+redirect: https://reu.dimacs.rutgers.edu/~jk2264/
+importance: 3
 category: project
 ---
- -->

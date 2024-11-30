@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Bluetooth Control Robotic Car
-description: Bluetooth-controlled robotic car with a custom deigned, 3D printed chassis.
-img: assets/img/BCC.JPG
-importance: 7
+title: Karaoke and Tone Control PCB
+description: A karaoke tone contorl circuit I deisgned and built as part of my EE 210 final project.
+img: assets/img/karaoke.JPG
+redirect: https://www.instagram.com/p/C1OIjzktOLo/?igsh=cDF3NGl3YTdmenQy
+importance: 6
 category: project
 ---

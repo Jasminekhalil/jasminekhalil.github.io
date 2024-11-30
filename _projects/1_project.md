@@ -5,7 +5,7 @@ description: Developed and implemented techniques for 3D reconstruction from 2D 
 parameters, triangulation, and the eight-point algorithm to recover spatial information about the scene and relationships between two
 views.
 img: assets/img/camproj.jpg
-redirect: ../assets/pdf/CVproject.pdf
+redirect: assets/pdf/CVproject.pdf
 importance: 1
-category: project
+category: fun
 ---

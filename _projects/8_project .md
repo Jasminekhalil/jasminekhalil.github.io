@@ -3,7 +3,7 @@ layout: page
 title: Paintings
 description: A collection of my selected paintings
 img: assets/img/verdipainting.jpg
-importance: 8
+importance: 9
 category: fun
 ---
 

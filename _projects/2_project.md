@@ -1,8 +1,9 @@
 ---
 layout: page
-title: JPMC Market Maven Project
-description: Building a model that predicts future price movements of stocks and other financial instruments during the last ten minutes of the Nasdaq exchange trading session
-img: assets/img/jpmclogo.png
-importance: 3
+title: Camera Projection, Triangulation, Epipolar Geometry Project
+description: Implemented 3D reconstruction from 2D motion capture images, using camera calibration, triangulation, and the eight-point algorithm to derive spatial information and understand relationships.
+img: assets/img/camproj.jpg
+redirect: ../assets/pdf/camera_projection_project.pdf
+importance: 2
 category: fun
 ---

@@ -1,9 +1,8 @@
 ---
 layout: page
-title: DIMACS REU - Coupling from the Past for Statistical Mechanics Models
-description: A log of my research work, presentations, and final paper as part of the DIMACS REU at Rutgers University 
-img: assets/img/CFTP.png
-redirect: https://reu.dimacs.rutgers.edu/~jk2264/
-importance: 4
-category: project
+title: JPMC Market Maven Project
+description: Building a model that predicts future price movements of stocks and other financial instruments during the last ten minutes of the Nasdaq exchange trading session
+img: assets/img/jpmclogo.png
+importance: 3
+category: fun
 ---

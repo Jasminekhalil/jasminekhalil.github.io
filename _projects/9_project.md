@@ -1,20 +1,56 @@
 ---
 layout: page
-title: Camera Projection, Triangulation, Epipolar Geometry Project
-description: Implemented 3D reconstruction from 2D motion capture images, using camera calibration, triangulation, and the eight-point algorithm to derive spatial information and understand relationships.
-img: assets/img/camproj.jpg
-redirect: ../assets/pdf/camera_projection_project.pdf
-importance: 1
+title: Paintings
+description: A collection of my selected paintings
+img: assets/img/verdipainting.jpg
+importance: 9
 category: fun
 ---
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/paint4.JPG" title="Painting 1" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/verdipainting.jpg" title="Painting 2" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/paint3.JPG" title="Painting 1" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
-<!-- ---
-layout: page
-title: 3D Augmentation with COLMAP
-description: Developed an offline Augmented Reality (AR) viewer that overlays virtual objects onto 3D scenes, using COLMAP for reconstruction and implementing a custom RANSAC algorithm for plane detection, geometric transformations, and 3D-to-2D projection.
-img: assets/img/camproj.jpg
-redirect: ../assets/pdf/colmapproject.pdf
-importance: 1
-category: fun
---- -->
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/paint7.JPG" title="Painting 1" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/paint6.JPG" title="Painting 1" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/paint5.JPG" title="Painting 1" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/paint1.JPG" title="Painting 1" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/paint2.JPG" title="Painting 1" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/classic3.JPG" title="Painting 4" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/originalpainting.JPG" title="Painting 3" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/waterfall.JPG" title="Painting 6" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/waterfallpainting2.JPG" title="Painting 5" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>

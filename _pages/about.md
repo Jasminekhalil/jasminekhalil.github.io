@@ -20,11 +20,11 @@ Some recent professional experiences I have been involved in include:
 
  - Conducting research as part of the [2024 DIMACS REU at Rutgers University](https://reu.dimacs.rutgers.edu/~jk2264/) under the mentorship of Dr. Pierre C. Bellec.
  - Being a [Cornell/Break-Through Tech fellow](https://tech.cornell.edu/impact/break-through-tech/)
- - Working with applied AI/ML leads from J.P. Morgan Chase & Co. to build a model that predicts future price movements of stocks and other financial instruments during the last ten minutes of the Nasdaq exchange trading session.
+ - Working with applied AI/ML leads from J.P. Morgan Chase & Co. to build a model that predicts future price movements of stocks and other financial instruments during the last ten minutes of the Nasdaq exchange trading session. [Project Slides](assets/pdf/marketmavenslides.pdf)
 
 I am also the TA and coordinator for the Electrical Engineering first year seminar at Penn State, a member of the [Eta Kappa Nu (HKN) student chapter](https://sites.psu.edu/hkneecs/), [Tau Beta Pi student chapter](https://sites.psu.edu/tbppab/) and the [IEEE student chapter](https://sites.psu.edu/psuieee/) at Penn State.
 
-[Here is a copy of my Resume](assets/pdf/JKResumeUpdated.pdf)
+[Here is a copy of my Resume](assets/pdf/Jasmine_Khalil_Resume.pdf)
 
 Below is a collection of my selected paintings. 
 

@@ -8,6 +8,8 @@ nav_order: 2
 horizontal: false
 ---
 
+Below is a collection of some selected projects I have worked on.
+
 <!-- pages/projects.md -->
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}

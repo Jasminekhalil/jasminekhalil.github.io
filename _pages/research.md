@@ -6,7 +6,7 @@ nav_order: 3
 
 --- 
 
-### [Moncrief Summer Intern, Computational Visualization Center – Oden Institute for Computational Engineering and Sciences](assets/pdf/cvc.pdf)  
+### [Moncrief Summer Intern, Computational Visualization Center – Oden Institute for Computational Engineering and Sciences](/assets/pdf/cvc.pdf)  
 **PI: Dr. Chandrajit Bajaj**  
 **June 2025 - Present**
 

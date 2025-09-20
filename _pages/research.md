@@ -6,7 +6,7 @@ nav_order: 3
 
 --- 
 
-### [Moncrief Summer Internship, Computational Visualization Center – Oden Institute for Computational Engineering and Sciences](cvc.pdf)  
+### [Moncrief Summer Intern, Computational Visualization Center – Oden Institute for Computational Engineering and Sciences](cvc.pdf)  
 **PI: Dr. Chandrajit Bajaj**  
 **June 2025 - Present**
 
@@ -26,7 +26,7 @@ Skills: Using Texas Advanced Computing Center (TACC) supercomputers (specificall
 
 ---
 
-### Undergraduate Researcher, Precision Medical Instrumentation Design Lab  
+### Undergraduate Researcher, Precision Medical Instrumentation Design Lab - Penn State University  
 **PI: Dr. Jason Moore**  
 **January 2025 - Present**
 
@@ -42,7 +42,7 @@ This work aims to deliver a next-generation medical training tool that enhances 
 
 ---
 
-### Researcher, DIMACS (Center for Discrete Mathematics and Theoretical Computer Science), Rutgers University  
+### Undergraduate Researcher, DIMACS (Center for Discrete Mathematics and Theoretical Computer Science) - Rutgers University  
 **PI: Dr. Pierre Bellec**  
 **May 2024 - July 2024**
 

@@ -7,9 +7,11 @@ nav_order: 3
 --- 
 
 ## Poster and Presentation Sessions
-[Oden Institute Moncrief Summer Internship Poster Session, Austin, August 2025](https://www.linkedin.com/feed/update/urn:li:activity:7367399066181222400/)
-[National Conference on Undergraduate Research Poster Presentation, Pittsburgh, April 2025](/assets/pdf/ncur.pdf)
-[DIMACS REU Presentations, New Brunswick, July 2024](https://reu.dimacs.rutgers.edu/~jk2264/JasmineKhalilDIMACSFinalPresentation.pdf)
+- [Oden Institute Moncrief Summer Internship Poster Session, Austin, August 2025](https://www.linkedin.com/feed/update/urn:li:activity:7367399066181222400/)
+
+- [National Conference on Undergraduate Research Poster Presentation, Pittsburgh, April 2025](/assets/pdf/ncur.pdf)
+
+- [DIMACS REU Presentations, New Brunswick, July 2024](https://reu.dimacs.rutgers.edu/~jk2264/JasmineKhalilDIMACSFinalPresentation.pdf)
 
 ## Research Experiences
 ### [Moncrief Summer Intern, Computational Visualization Center – Oden Institute for Computational Engineering and Sciences](/assets/pdf/cvc.pdf)  

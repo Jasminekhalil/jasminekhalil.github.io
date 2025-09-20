@@ -27,7 +27,7 @@ Some recent research and professional experiences I have been involved in includ
  - Being a [Cornell/Break-Through Tech fellow](https://tech.cornell.edu/impact/break-through-tech/)
  - Working with applied AI/ML leads from [J.P. Morgan Chase & Co.](https://www.jpmorganchase.com/about/technology/research/ai) to improve the prediction of future price movements of stocks and other financial instruments during the last ten minutes of the Nasdaq exchange trading session.
 
-I am also the TA and coordinator for the Electrical Engineering first year seminar at Penn State, a member of the [Eta Kappa Nu (HKN) PSU student chapter](https://sites.psu.edu/hkneecs/), [Tau Beta Pi PSU student chapter](https://sites.psu.edu/tbppab/) and the [IEEE student chapter](https://sites.psu.edu/psuieee/) at Penn State.
+I am also the Teaching Assistant and coordinator for the Electrical Engineering first year seminar at Penn State, a member of the [Eta Kappa Nu (HKN) PSU student chapter](https://sites.psu.edu/hkneecs/), [Tau Beta Pi PSU student chapter](https://sites.psu.edu/tbppab/) and the [IEEE student chapter](https://sites.psu.edu/psuieee/) at Penn State.
 
 [Here is a copy of my Resume](assets/pdf/Jasmine_Khalil_Resume.pdf)
 
